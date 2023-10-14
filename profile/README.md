@@ -8,6 +8,8 @@ The main documentation site contains detailed directions on using and creating p
 
 **Modules**: A standalone plugin for the team server or client does not need to be directly related to an implant. It can be in c# or can mainly be the desired language with a small c# connector. 
 
+**Currently, only Assets are available under the current Alpha 0.3 release but support for Modules is planned for the 0.4 release**
+
 # HardHat Tools 
 
 | Name | Tool Type | Language | Client Ready? | Server Ready? | Supported OS | Active Development (Last 90 Days) | 
