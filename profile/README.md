@@ -15,3 +15,6 @@ The main documentation site contains detailed directions on using and creating p
 | Name | Tool Type | Language | Client Ready? | Server Ready? | Supported OS | Active Development (Last 90 Days) | 
 | --- | ---------- | -------- |  ---------- |  ---------- |  ---------- |  ---------- |
 | Rivet | Asset  |  Rust | :white_check_mark:  | :white_check_mark:  |  Windows | :white_check_mark:   |
+
+# Want To Create Your Own Assets? 
+Check out the Asset Development Repo for templates and guides on getting started. 
